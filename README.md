@@ -9,7 +9,7 @@
   <img height="350" width="400" align="right" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />
 <b>About Me:</b>
 
-- 👨‍🎓 I am currently a final year student at <a href="https://pict.edu/">University of Petroleum and Energy Studies</a>
+- 👨‍🎓 I am currently a final year student at <a href="https://pict.edu/">University of Petroleum and Energy Studies,Dehradun</a>
 - 💻 I have worked as a Software Developer intern at Finertia Pvt Ltd and Webisdom Pvt Ltd 
 - 👨‍💻 I am a Full Stack JAVA Developer(Spring MVC + REST API), Mobile App developer(Flutter).
 - 👨‍💻I have solved real time problems and got clear understanding <br>of concepts Data structures and Algorithms
