@@ -56,10 +56,10 @@
 <a href="https://www.linkedin.com/in/shikhar-varshney-b72638145/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp; &nbsp; &nbsp; <a href="https://www.hackerrank.com/Shikhar_8?hr_r=1"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/hackerrank.svg" /></a> 
  </p>
 
-📫 How to reach me:<br> EMAIL  500060655@stu.upes.ac.in<br>
-                    MOBILE +918587981876
+📫 How to reach me:<br> EMAIL :- 500060655@stu.upes.ac.in<br>
+                    MOBILE :- +918587981876
  # Resume 
- Kindly refer to very first pinned repository named "Resume"
+ Kindly refer to very first pinned repository named "Resume". It has my latest Resume.
  
 
 
