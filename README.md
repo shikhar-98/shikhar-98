@@ -58,6 +58,7 @@
 
 📫 How to reach me:<br> EMAIL :- 500060655@stu.upes.ac.in<br>
                     MOBILE :- +918587981876
+                    LinkedIn :- Click here<a href="https://www.linkedin.com/in/shikhar-varshney-b72638145/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  # Resume 
  Kindly refer to very first pinned repository named "Resume". It has my latest Resume.
  
