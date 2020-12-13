@@ -12,10 +12,10 @@
 - 👨‍🎓 I am currently a final year CS student at <a href="https://pict.edu/">University of Petroleum and Energy Studies,Dehradun</a>
 - 💻 I have done 2 internships as a Software Developer Intern at Finertia Pvt Ltd (as a Full Stack Android Developer) and Webisdom Pvt Ltd (as a Web Developer)
 - 👨‍💻 I am a Full Stack JAVA Developer(Spring MVC + REST API), Mobile App developer(Flutter).
-- 👨‍💻I have solved real time problems and got clear understanding <br>of concepts Data structures and Algorithms
+- 👨‍💻I have solved real time problems and got expierence in optimizing solutions <br> using concepts of Data structures and Algorithms
 - 💼 I have implemented "Cement Analysis Tool" Mobile Application for <br> <a href="https://www.ncbindia.com/">National Council for Cement and Building Materials, Faridabad,Haryana</a> which helped them to reduced the time processing results.
 - 💼I am a Certified Oracle infrastructure Associate 2020
-- ⚡ I’m actively looking for Software Engineer role (Internship/Fulltime) <br> and will be able to join from 1st Jan 2021.
+- ⚡ I’m actively looking for Software Engineer role (Internship/Fulltime) <br> and will be Happy to join from 1st Jan 2021.
 - 😄 I actively conduct coding seminars and workshops in my college.
 
  
